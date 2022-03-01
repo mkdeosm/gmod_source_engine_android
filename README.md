@@ -5,8 +5,6 @@ ATTENTION!!! this project is not finalized so use the mod carefully. it can brea
 # how to install?
 # 1. before installing the mod
 first install the latest version of port nillerusr!
-Russian version of the game link: http://nillerusr.fvds.ru/hls-fixed.apk
-English version of the game link: http://nillerusr.fvds.ru/hls-fixed.apk
 -
 You need platform, hl2 and hl1 folders from Steam version
 For shaders do same as for the Half-Life 2, but instead of hl2 folders use hl1.
