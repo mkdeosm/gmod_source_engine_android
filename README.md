@@ -3,13 +3,16 @@ ATTENTION!!! this project is not finalized so use the mod carefully. it can brea
 
 
 # how to install?
+
 # 1. before installing the mod
 first install the latest version of port nillerusr!
 -
-You need platform, hl2 and hl1 folders from Steam version
-For shaders do same as for the Half-Life 2, but instead of hl2 folders use hl1.
-Full path should be /something/srceng/hl1/custom/hl1/shaders in a result
-https://drive.arumoon.ru/0vjdt6.zip
+To install the game, obb files are useless, you need to take game content from Steam version - hl2 and platform. These folders need to move in to srceng folder
+
+Also need to install shaders: https://drive.arumoon.ru/0vjdt6.zip
+In hl2 folder create custom folder and inside this new folder create hl2 folder. Unzip shaders folder from archive to this new hl2 folder. Full path should be /something/srceng/hl2/custom/hl2/shaders in a result 
+
+
 # 2. mod installation
 you need to go to the folder " hl2/ "
 unzip the contents and that's it! ready! you can enjoy the mod!
